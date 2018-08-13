@@ -1,0 +1,4 @@
+﻿  algorithm20.cpp
+e:\tzhou\work\datastructure\algorithm\algorithm20\algorithm20\algorithm20\algorithm20.cpp(122): warning C4715: “Search”: 不是所有的控件路径都返回值
+e:\tzhou\work\datastructure\algorithm\algorithm20\algorithm20\algorithm20\algorithm20.cpp(191): warning C4715: “deleteSearch”: 不是所有的控件路径都返回值
+  algorithm20.vcxproj -> E:\TZhou\Work\DataStructure\algorithm\algorithm20\algorithm20\Debug\algorithm20.exe

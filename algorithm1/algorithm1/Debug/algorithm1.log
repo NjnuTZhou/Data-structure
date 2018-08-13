@@ -1,0 +1,3 @@
+﻿  源.cpp
+e:\tzhou\work\datastructure\algorithm\algorithm1\algorithm1\源.cpp(4): warning C4326: “main”的返回类型应为“int”而非“void”
+  algorithm1.vcxproj -> E:\TZhou\Work\DataStructure\algorithm\algorithm1\Debug\algorithm1.exe

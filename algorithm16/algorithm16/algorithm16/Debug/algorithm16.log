@@ -1,0 +1,7 @@
+﻿  algorithm16.cpp
+e:\tzhou\work\datastructure\algorithm\algorithm16\algorithm16\algorithm16\algorithm16.cpp(71): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  e:\tzhou\work\datastructure\algorithm\algorithm16\algorithm16\algorithm16\algorithm16.cpp(71): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  e:\tzhou\work\datastructure\algorithm\algorithm16\algorithm16\algorithm16\algorithm16.cpp(71): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  e:\tzhou\work\datastructure\algorithm\algorithm16\algorithm16\algorithm16\algorithm16.cpp(71): note: 此参数用作缓冲区大小
+e:\tzhou\work\datastructure\algorithm\algorithm16\algorithm16\algorithm16\algorithm16.cpp(139): warning C4715: “InsertNode”: 不是所有的控件路径都返回值
+  algorithm16.vcxproj -> E:\TZhou\Work\DataStructure\algorithm\algorithm16\algorithm16\Debug\algorithm16.exe
